@@ -1,0 +1,136 @@
+/* index styles */
+/* profile */
+.profile {
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    }
+
+    .brand {
+        width: 100%;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    }
+
+    .menu {
+        margin-left: 300px;
+    }
+
+    .create {
+        width: 150px;
+        height: 200px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        border-radius: 10%;
+    }
+    /* story */
+
+    .story {
+        margin-top: 30px;
+    }
+
+    .nav-icon i {
+        width: 30px;
+        height: 30px;
+        padding: 5px;
+        margin-bottom: 10px;
+        background-color: grey;
+        border-radius: 50%;
+
+    }
+
+    .plus {
+        background-color: white;
+        border: 2px solid white;
+        border-radius: 50px;
+        font-size: 50px;
+        position: absolute;
+    }
+/* featheres */
+    .featheres {
+        height: 100%;
+    }
+
+    .wings img {
+        width: 50px;
+        height: 50px;
+        border: 4px solid white;
+        margin-left: 10px;
+        border-radius: 50%;
+        margin-top: 10px;
+    }
+
+    .add {
+        width: 380px;
+    }
+
+    .ad:hover {
+        width: 300px;
+        height: 200px;
+        background-color: grey;
+    }
+/* profile card */
+    .raju {
+        width: 40px;
+        border-radius: 50%;
+    }
+
+    .priya {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+    .fac-profile{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+/* updates */
+    .updates {
+        width: 500px;
+        margin: 0px 10px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    }
+    
+    /* friend styles */
+    .home{
+        width: 339px;
+        padding: 10px;
+        background-color: #f2f4f7;
+    }
+    /* .suggest{
+        margin: 0 120px;
+    } */
+    .day{
+        margin: 0 130px;
+    }
+    .homes:hover{
+         background-color: #f2f4f7;
+    }
+    .follow{
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    }
+    .sabari{
+        width: 220px;
+         box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    }
+    .common{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+    }
+    .sibiraj{
+        width: 200px;
+        height: 210px;
+    }
+    /* market place */
+    .new-add{
+        background-color: #ebf5ff;
+    }
+    /* group */
+    .photo{
+        width: 700px;
+         box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    }
+    @media only screen and (max-width:768px){
+    }
+    .logout{
+        width:10px;
+    }
+   
